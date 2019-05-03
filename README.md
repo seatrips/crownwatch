@@ -1,6 +1,6 @@
-# crownwatch
-crown-watchdog
-Installation
+# mn watch
+## Installation
+
 Login to your VPS as the user which runs the daemon and run the following commands:
 ```
 wget https://gitlab.crown.tech/walkjivefly/crown-core/uploads/d8b1a0f163f522059f3758bbc13249c6/crownwatch.sh
